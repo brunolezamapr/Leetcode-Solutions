@@ -42,11 +42,11 @@ Soluciones en Python para problemas de LeetCode, con pruebas unitarias.
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding Window |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Binary Search |
 | 1356 | [Number of Sub-arrays of Size K and Average ≥ Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Sliding Window |
-| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/count-good-strings/) | Sliding Window |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Sliding Window |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Sliding Window |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | Sliding Window |
-| 2490 | [Circular Sentence](https://leetcode.com/problems/find-the-first-common-file/) | Two Pointers |
-| 2584 | [Split the Array to Make Coprime Product](https://leetcode.com/problems/minimum-swaps-to-partition-binary-array/) | Two Pointers |
+| 2490 | [Find the First Common File](https://leetcode.com/problems/find-the-first-common-file/) | Two Pointers |
+| 2584 | [Minimum Swaps to Partition Binary Array](https://leetcode.com/problems/minimum-swaps-to-partition-binary-array/) | Two Pointers |
 
 ## Cómo ejecutar las pruebas
 
@@ -56,13 +56,3 @@ Cada archivo es independiente y se ejecuta directamente:
 python 1_twoSum.py
 python 3_longestSubstring.py
 # ...   
-
-## Temas cubiertos
-
-#Two pointers (colliding,same direction)
-#Sliding Window (fixed & variable size)
-#Binary Search
-#Fast & Slow Pointer (linked lists)
-#Hash Map / Hash Set
-#Recursion
-#Sorting
